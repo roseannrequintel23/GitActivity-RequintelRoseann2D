@@ -1,3 +1,6 @@
 print ("Roseann Requintel")
 print ("Nangka Torrijos Marinduque")
 print ("November 23, 2001")
+print ("Marinduque State College")
+print ("BSI/T")
+print ("2D")
